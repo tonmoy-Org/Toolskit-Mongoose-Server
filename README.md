@@ -8,7 +8,6 @@ This repository contains a server application built with **Node.js** and **Mongo
 
 - **Node.js**: JavaScript runtime for building scalable network applications.
 - **Express.js**: Web application framework for Node.js, providing robust features for building web and mobile applications.
-- **MongoDB**: NoSQL database that stores data in flexible, JSON-like documents.
 - **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js, facilitating schema modeling and database interaction.
 - **Cors**: Middleware to enable Cross-Origin Resource Sharing, allowing requests from different origins.
 - **dotenv**: Module to load environment variables from a `.env` file into `process.env`.
